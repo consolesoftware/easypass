@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\ecc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:ecc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\passwordmake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:passwordmake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\rsa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:rsa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\aes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:aes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\sinbreak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:sinbreak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\vigbreak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:vigbreak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\des.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:des.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\multable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:multable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\sintable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC389FE-A27A-442B-8E31-38FFE7B023B2}|easypass.vcxproj|solutionrelative:sintable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ecc.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\ecc.cpp",
+              "RelativeDocumentMoniker": "ecc.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\ecc.cpp",
+              "RelativeToolTip": "ecc.cpp",
+              "ViewState": "AgIAAE8CAAAAAAAAAAAUwGACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T11:20:13.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "passwordmake.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\passwordmake.cpp",
+              "RelativeDocumentMoniker": "passwordmake.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\passwordmake.cpp",
+              "RelativeToolTip": "passwordmake.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T11:12:58.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rsa.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\rsa.cpp",
+              "RelativeDocumentMoniker": "rsa.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\rsa.cpp*",
+              "RelativeToolTip": "rsa.cpp*",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwHIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T09:00:04.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sinbreak.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\sinbreak.cpp",
+              "RelativeDocumentMoniker": "sinbreak.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\sinbreak.cpp",
+              "RelativeToolTip": "sinbreak.cpp",
+              "ViewState": "AgIAALgBAAAAAAAAAAAAwMsBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:51:45.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vigbreak.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\vigbreak.cpp",
+              "RelativeDocumentMoniker": "vigbreak.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\vigbreak.cpp",
+              "RelativeToolTip": "vigbreak.cpp",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAAwMUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:51:32.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "aes.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\aes.cpp",
+              "RelativeDocumentMoniker": "aes.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\aes.cpp",
+              "RelativeToolTip": "aes.cpp",
+              "ViewState": "AgIAANwCAAAAAAAAAAAAwAUDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:37:24.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "des.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\des.cpp",
+              "RelativeDocumentMoniker": "des.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\des.cpp",
+              "RelativeToolTip": "des.cpp",
+              "ViewState": "AgIAAH4CAAAAAAAAAAAswLkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:37:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "multable.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\multable.cpp",
+              "RelativeDocumentMoniker": "multable.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\multable.cpp",
+              "RelativeToolTip": "multable.cpp",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAswG8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:31:13.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sintable.cpp",
+              "DocumentMoniker": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\sintable.cpp",
+              "RelativeDocumentMoniker": "sintable.cpp",
+              "ToolTip": "D:\\\u6211\u7684\u6587\u4EF6\\easypass\\easypass\\sintable.cpp",
+              "RelativeToolTip": "sintable.cpp",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwIEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:27:49.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
